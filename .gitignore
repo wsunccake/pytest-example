@@ -1,0 +1,10 @@
+*.iml
+.idea
+*.pyc
+*.html
+
+__pycache__
+target
+assets
+.coverage
+

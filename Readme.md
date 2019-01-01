@@ -9,6 +9,7 @@ linux:~/pytest-example # pip install pytest-html
 ## Run testcase
 
 ```bash
+linux:~/pytest-example # pyb install_dependencies
 linux:~/pytest-example # pyb
 ```
 
